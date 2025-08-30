@@ -160,7 +160,7 @@
 			iconUrl: 		customIconURL,
 			shadowUrl: 		'https://pathfinder-gm-tools.s3.amazonaws.com/map/MerisylMapLocationMarkerShadow.png',
 
-			iconSize:     	[30, 42], 	// size of the icon
+			iconSize:     	[45, 63], 	// size of the icon
 			shadowSize:   	[26, 38], 	// size of the shadow
 			iconAnchor:   	[15, 42], 	// point of the icon which will correspond to marker's location
 			shadowAnchor: 	[02, 38],  	// the same for the shadow
